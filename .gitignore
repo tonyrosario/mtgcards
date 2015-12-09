@@ -1,0 +1,25 @@
+# Compiled / Generated code
+*.class
+*.jar
+*.war
+*.ear
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Gradle
+build/
+.gradle
+
+# Intellij
+*.iml
+.idea/
+
+# Eclipse project files
+.classpath
+.project
+
+# Logs
+*.log
+
+
